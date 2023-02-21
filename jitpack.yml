@@ -1,2 +1,5 @@
+before_install:
+  - sh -c '(echo "#!/usr/bin/env sh" && curl -L https://github.com/lihaoyi/mill/releases/download/0.10.11/0.10.11) > ~/mill && chmod +x ~/mill'
+  - mkdir -p ~/.m2/
 install:
-  - mill -j 0 parsergpt.publishM2Local
+  - ./mill -j 0 parsergpt.publishM2Local
