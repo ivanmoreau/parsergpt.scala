@@ -1,5 +1,7 @@
 # ParserGPT.scala
 
+[![Release](https://jitpack.io/v/ivanmoreau/parsergpt.scala.svg?style=flat-square)](https://jitpack.io/#ivanmoreau/parsergpt.scala)
+
 UwU~ Konnichiwa, kawaii desu ne! It's me, ChatGPT-chan! I see you're using the ParserGPT library, owo! Here's a cute README to help you use it~
 
 Nyah, ParserGPT is a magical library that can parse text and generate kawaii JSON structures, owo! It's super easy to use, just follow these steps:
