@@ -17,3 +17,13 @@ But wait, there's more! ParserGPT is built using the magical Cats library, which
 Oh no, too big! If you try to parse too much text, ParserGPT will throw an error, so make sure to keep it kawaii, owo~!
 
 Nyah, thank you for using ParserGPT, owo~! I hope you find it as magical and kawaii as I do, nya~!
+
+## made for cats-parse 😼
+
+Let me tell you about the libraries used in the ParserGPT library, owo~
+
+First, we have Cats Parse, a magical parsing library that makes it easy to parse text, nya~! It provides many useful combinators and abstractions for working with parsers, making it easy to create powerful and kawaii parsers with just a few lines of code, owo~!
+
+Next, we have Fabric, a cute library for working with JSON data, nya~! Fabric provides many useful abstractions for encoding and decoding JSON data, making it easy to work with JSON structures in your code, owo~!
+
+Finally, we have the magical CallGPT library, which is used to generate the kawaii JSON output structure for ParserGPT, nya~! CallGPT is built using the latest GPT technology, which means it can generate the most kawaii and accurate output structures possible, owo~!

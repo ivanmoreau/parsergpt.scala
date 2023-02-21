@@ -1,0 +1,2 @@
+install:
+  - mill -j 0 ParserGPT.publishM2Local
